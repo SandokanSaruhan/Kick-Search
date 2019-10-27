@@ -15,6 +15,8 @@ Kick Search is a simple iOS app for kickstarter projects .
 
 (http://starlord.hackerearth.com/kickstarter) API used as provider.
 
+![](demo.gif)
+
 
 
 
